@@ -1,0 +1,20 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 250px);
+}
+
+.item {
+    border: 3px solid green;
+    background-color: yellow;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(3, 200px);
+}
+
+.item2 {
+    border: 2px dashed yellow;
+}
