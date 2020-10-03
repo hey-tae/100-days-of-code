@@ -21,6 +21,10 @@ https://github.com/hey-tae/100-days-of-code/tree/master/Day1
 
 **Today's Progress**: 
 Today was a very long day yet also felt very short. I woke up tired and it lasted all day. I had planned to start my flexbox class today but I knew that the second I turned the videos on, I would knock right out. So I decided to take things a little lighter today. I made some cards on Quizlet and sent in a video application to a 30 week full stack bootcamp. I also had a final round job interview, not tech related but the hours would set me up much better to participate in the bootcamp if I got in. 
+<br> 
+
+Last night I was trying to add a new project to github and was having the HARDEST time getting it done, and I am not sure why since I followed all of the steps. But I am going to look into it more for day 3. 
+
 **Thoughts**: 
 I think that working out in the morning made a big difference yesterday. I had a lot more energy going in to the day, I could have also been riding the high of it being the first of the month and start of this challenge. 
 
