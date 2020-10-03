@@ -24,7 +24,7 @@ Today was a very long day yet also felt very short. I woke up tired and it laste
 **Thoughts**: 
 
 **Link(s) to work**: 
-
+[Quizlet Grid Cards](https://quizlet.com/532688623/grid-flash-cards/)
 
 ### 
 
