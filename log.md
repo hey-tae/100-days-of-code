@@ -13,7 +13,7 @@ The Goal of today was to get CSS grid down. I feel rather comfortable with HTML 
 **Thoughts:** 
 Today I learned that my learning style is for sure NOT just listening to lecture videos. I disengage very quickly. I work much better when I am doing something hands on. 
 **Link to work:** 
-https://github.com/hey-tae/100-days-of-code/tree/master/Day1
+[Day 1 Grid work](https://github.com/hey-tae/100-days-of-code/tree/master/Day1)
 
 
 ### Day 2 
