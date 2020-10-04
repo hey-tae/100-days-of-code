@@ -41,6 +41,8 @@ On the agenda for the day was starting Wes Bos Flexbox program, and start some o
 <br>
 
 Since it was the only thing on the agenda I had to go to my forever back up plan. [freeCodeCamp](https://www.freecodecamp.org/learn). Which I should probably bring to the forefront since it's usually where I end up. I redid the flexbox section of the responsive design CSS module. This go around on fCC, I am going through each section and making flash cards which I go over during my weekday morning commutes. Once I had the cards done I decided I would tackle some of the projects that I have been avoiding. I started with the tribute page and it wasn't as bad as I thought it was going to be (with my new found understanding of CSS)
+
+When I got the tribute page done, I very bravely moved onto the survey form and while I got the HTML done (with lots of help from good ol slack overflow) I was having a hard time with the CSS. I did a smooth little flex display and made some columns but but it didn't match with the sample exactly. So know I know what I need to work on for tomorrow.
 **Thoughts** 
 
 **Link(s) to work**
