@@ -31,10 +31,10 @@ I think that working out in the morning made a big difference yesterday. I had a
 **Link(s) to work**: 
 [Quizlet Grid Cards](https://quizlet.com/532688623/grid-flash-cards/)
 
-### 
+### Day 3 
 
 **Today's Progress**: 
-
+Today I woke up at 7 to start coding, and by 7:34 I was back in bed. But I tried! It's saturday, I don't HAVE to wake up early to get my daughter to daycare or anything like that. So I took advantage. 
 **Thoughts** 
 
 **Link(s) to work**
