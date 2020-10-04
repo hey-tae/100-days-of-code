@@ -46,4 +46,6 @@ When I got the tribute page done, I very bravely moved onto the survey form and 
 **Thoughts** 
 
 **Link(s) to work**
+[tribute page](https://codepen.io/HTaeML/pen/MWyNORO)
+[survey forms sans css](https://codepen.io/freeCodeCamp/pen/MJjpwO)
 
