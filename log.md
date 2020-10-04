@@ -40,7 +40,7 @@ Today I woke up at 7 to start coding, and by 7:34 I was back in bed. But I tried
 On the agenda for the day was starting Wes Bos Flexbox program, and start some of his code alongs. I planned for that to take much of the day. To my (not) surprise, the whole lecture thing again did not work for me. I read someone last weekend that "learning styles" were a myth and that you should try a bunch of different ones before you find what works for you. And still continue to switch it up every now and then. Well I have tried the lecture thing many times and I can't NOT fall asleep while someone is talking at me. So that plan got axed. 
 <br>
 
-Since it was the only thing on the agenda I had to go to my forever back up plan. [freeCodeCamp](https://www.freecodecamp.org/learn)
+Since it was the only thing on the agenda I had to go to my forever back up plan. [freeCodeCamp](https://www.freecodecamp.org/learn). Which I should probably bring to the forefront since it's usually where I end up. I redid the flexbox section of the responsive design CSS module. 
 **Thoughts** 
 
 **Link(s) to work**
